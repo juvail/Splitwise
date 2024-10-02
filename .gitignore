@@ -1,0 +1,57 @@
+## User-specific files ##
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific folders ##
+.vscode/
+.vscode/*
+.idea/
+.idea/*
+
+## Logs ##
+*.log
+logs/
+
+## Visual Studio Code ##
+.vscode/*
+
+# Node modules
+node_modules/
+
+## .NET ##
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*.nuspec
+*.nupkg
+
+## .NET Core ##
+project.json
+project.lock.json
+artifacts/
+bin/
+obj/
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.cache
+*.log
+*.csproj.user
+*.sln
+*.suo
+*.swp
+.lock.json
+.DS_Store
+
+## .NET Core secrets ##
+secrets.json
+
+# Ignore files for dependency management
+global.json
